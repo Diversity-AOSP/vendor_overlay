@@ -85,6 +85,7 @@ PRODUCT_PACKAGES += \
 
 # Themes
 PRODUCT_PACKAGES += \
+    DarkBgOverlay \
     UnmonetThemeAndroidOverlay \
     UnmonetThemeSettingsOverlay \
     NexodusThemeAndroidOverlay \
