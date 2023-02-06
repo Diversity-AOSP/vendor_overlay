@@ -167,6 +167,9 @@ PRODUCT_PACKAGES += \
     IconDataThree \
     IconDataTwo
 
+PRODUCT_PACKAGES += \
+    UdfpsPressedIcons
+
 # Brightness slider styles
 PRODUCT_PACKAGES += \
     BrightnessSliderAcunOverlay \
