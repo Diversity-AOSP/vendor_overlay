@@ -78,6 +78,7 @@ PRODUCT_PACKAGES += \
     DarkBgOverlay \
     UnmonetThemeAndroidOverlay \
     UnmonetThemeSettingsOverlay \
+    UnmonetThemeSystemUIOverlay \
     NexodusThemeAndroidOverlay \
     NexodusThemeSettingsOverlay \
     NexodusThemeSystemUIOverlay \
