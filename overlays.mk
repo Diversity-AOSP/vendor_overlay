@@ -116,6 +116,8 @@ PRODUCT_PACKAGES += \
     WavySignalOverlay \
     RoundSignalOverlay \
     InsideSignalOverlay \
+	GradiconSignalOverlay \
+	NothingDotSignalOverlay \
     BarsSignalOverlay
 
 # Wi-Fi Icons
@@ -127,6 +129,8 @@ PRODUCT_PACKAGES += \
     WavyWiFiOverlay \
     RoundWiFiOverlay \
     InsideWiFiOverlay \
+	GradiconWiFiOverlay \
+	NothingDotWiFiOverlay \
     BarsWiFiOverlay \
     WeedWiFiOverlay \
     DoraWiFiOverlay \
