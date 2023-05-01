@@ -152,6 +152,11 @@ PRODUCT_PACKAGES += \
     PillsSignalOverlay \
     RomanSignalOverlay
 
+# Brightness slider styles
+PRODUCT_PACKAGES += \
+    BrightnessSliderFilledOverlay \
+    BrightnessSliderThinOverlay
+
 # Navbar
 #PRODUCT_PACKAGES += \
 #    NavbarAsusOverlay \
