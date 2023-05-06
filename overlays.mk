@@ -161,6 +161,8 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     BrightnessSliderFilledOverlay \
     BrightnessSliderThinOverlay \
+    BrightnessSliderAcunOverlay \
+    BrightnessSliderBangOverlay \
     BrightnessSliderCyberpunkOverlay \
     BrightnessSliderOutlineOverlay \
     BrightnessSliderShadedOverlay \
