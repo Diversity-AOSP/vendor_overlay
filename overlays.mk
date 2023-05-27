@@ -160,7 +160,14 @@ PRODUCT_PACKAGES += \
 # Brightness slider styles
 PRODUCT_PACKAGES += \
     BrightnessSliderFilledOverlay \
-    BrightnessSliderThinOverlay
+    BrightnessSliderThinOverlay \
+    BrightnessSliderCyberpunkOverlay \
+    BrightnessSliderOutlineOverlay \
+    BrightnessSliderShadedOverlay \
+    BrightnessSliderTranslucentOverlay \
+    BrightnessSliderLeafyOutlineOverlay \
+    BrightnessSliderMinimalThumbOverlay \
+    BrightnessSliderRoundedClipOverlay
 
 # QS Panel
 PRODUCT_PACKAGES += \
