@@ -173,10 +173,15 @@ PRODUCT_PACKAGES += \
 
 # QS Panel
 PRODUCT_PACKAGES += \
-    QSRoundedRectangle \
     QSOutline \
     QSTwoToneAccent \
-    QSShaded
+    QSTwoToneAccentTrans \
+    QSShaded \
+    QSCyberPunk \
+    QSNeumorph \
+    QSReflected \
+    QSSurround \
+    QSThin
 
 # Navbar
 #PRODUCT_PACKAGES += \
