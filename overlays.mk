@@ -162,19 +162,12 @@ PRODUCT_PACKAGES += \
     BrightnessSliderFilledOverlay \
     BrightnessSliderThinOverlay \
     BrightnessSliderCyberpunkOverlay \
-    BrightnessSliderGradiantOverlay \
-    BrightnessSliderNeumorphOverlay \
     BrightnessSliderOutlineOverlay \
     BrightnessSliderShadedOverlay \
-    BrightnessSliderThinOutlineOverlay \
     BrightnessSliderTranslucentOverlay \
     BrightnessSliderLeafyOutlineOverlay \
     BrightnessSliderMinimalThumbOverlay \
-    BrightnessSliderOldSchoolThumbOverlay \
-    BrightnessSliderRoundedClipOverlay \
-    BrightnessSliderThumbSliderOverlay \
-    BrightnessSliderLineOverlay \
-    BrightnessSliderLightyOverlay 
+    BrightnessSliderRoundedClipOverlay
 
 # QS Panel
 PRODUCT_PACKAGES += \
